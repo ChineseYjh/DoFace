@@ -1,5 +1,7 @@
-# DoFace
+# DoFace | 抖脸
 A package that supports Virtual Makeup function, including **lip color transfer** and **cosmetic contact lenses**. This repository is based on PyTorch.
+
+一个支持包括**唇彩试色**和**美瞳试戴**功能的虚拟试妆软件包。该项目基于PyTorch。项目介绍见[此MOOC链接](https://www.icourse163.org/learn/BUPT-1003561002?tid=1463301502#/learn/content?type=detail&id=1240712553&cid=1266459431)。
 
 ![唇彩](https://github.com/ChineseYjh/DoFace/blob/master/imgs/%E5%94%87%E5%BD%A9.jpg)
 ![美瞳](https://github.com/ChineseYjh/DoFace/blob/master/imgs/%E7%BE%8E%E7%9E%B3.jpg)
